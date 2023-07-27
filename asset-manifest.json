@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/infinizai/static/css/main.9649a921.css",
+    "main.js": "/infinizai/static/js/main.4c42bc3f.js",
+    "static/media/IMAGE.png": "/infinizai/static/media/IMAGE.2d7e44f02f6359f1c3d9.png",
+    "static/media/IMAGE (4).png": "/infinizai/static/media/IMAGE (4).a0ca714ea117eded6322.png",
+    "static/media/IMAGE (3).png": "/infinizai/static/media/IMAGE (3).a483d3a5e3836f02b1b5.png",
+    "static/media/IMAGE (2).png": "/infinizai/static/media/IMAGE (2).32de84116909e86ddd18.png",
+    "static/media/IMAGE (1).png": "/infinizai/static/media/IMAGE (1).0fd4ececee45f08bc1d3.png",
+    "static/media/IMAGE.svg": "/infinizai/static/media/IMAGE.65d647899f066815b51d7a0542f9f802.svg",
+    "index.html": "/infinizai/index.html",
+    "static/media/Vector.svg": "/infinizai/static/media/Vector.c0a30b18da04c74c7b6fb907a007cdfb.svg",
+    "main.9649a921.css.map": "/infinizai/static/css/main.9649a921.css.map",
+    "main.4c42bc3f.js.map": "/infinizai/static/js/main.4c42bc3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9649a921.css",
+    "static/js/main.4c42bc3f.js"
+  ]
+}
