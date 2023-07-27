@@ -1,0 +1,90 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.social-media {
+  position: absolute;
+  top: 27.5rem;
+  left: -7.5rem;
+  width: 10.5rem;
+  display: flex;
+  gap: 5.5rem;
+  transform: rotate(-90deg);
+}
+
+.social-media li {
+  color: #80858f;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.5rem; /* 227.273% */
+}
+
+.hero article {
+  height: 52.8rem;
+  width: 66rem;
+}
+
+.hero article h2 {
+  display: flex;
+  align-items: center;
+  font-size: 1.6rem;
+  color: #57b8ff;
+  line-height: 100%;
+  text-transform: uppercase;
+}
+
+.hero article h1 {
+  margin-top: 1.4rem;
+  font-size: 7.2rem;
+  line-height: 8.6rem; /* 119.444% */
+  text-transform: capitalize;
+  position: relative;
+}
+
+.hero article h1 svg {
+  width: 43.4rem;
+  height: 1.6rem;
+  position: absolute;
+  top: 16.7rem;
+  left: 21.9rem;
+}
+
+.hero article p {
+  margin-top: 4.5rem;
+  width: 61.5rem;
+  height: 5.6rem;
+  color: #999;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.8rem;
+}
+
+.btns {
+  display: inline-flex;
+  align-items: center;
+  gap: 4rem;
+  margin-top: 5.3rem;
+  width: 66rem;
+  height: 7rem;
+}
+
+.btns .blue-btn {
+  width: 203px;
+  height: 70px;
+  background: #57b8ff;
+  text-transform: capitalize;
+}
+
+.btns button {
+  background-color: #00000000;
+  font-size: 1.8rem;
+  line-height: 2.8rem; /* 155.556% */
+}
+
+.img-hero {
+  width: 66rem;
+  height: 51.8rem;
+  background-image: url(./IMAGE.png);
+}

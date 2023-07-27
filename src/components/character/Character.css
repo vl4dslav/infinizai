@@ -1,0 +1,61 @@
+.character {
+  display: flex;
+  gap: 12.8rem;
+}
+
+.img-character {
+  width: 59.6rem;
+  height: 69.5rem;
+  background-image: url(./IMAGE.png);
+}
+
+.character article {
+  width: 59.6rem;
+}
+
+.character h2 {
+  margin-top: 8.3rem;
+  color: #57b8ff;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.6rem;
+  text-transform: uppercase;
+  margin-bottom: 1.2rem;
+}
+
+.character h1 {
+  font-size: 6.3rem;
+  font-weight: 400;
+  line-height: 7.4rem;
+  text-transform: capitalize;
+  margin-bottom: 3.8rem;
+}
+
+.character p {
+  color: #dfdfdfcc;
+  font-size: 2rem;
+  line-height: 3rem;
+  margin-bottom: 5.4rem;
+}
+
+.images-character {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.images-character img {
+  padding: 1.1rem;
+  width: 19.6rem;
+  height: 12.5rem;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.images-character img.picked {
+  padding: 1.1rem;
+  width: 19.6rem;
+  height: 12.5rem;
+  border-radius: 2rem;
+  background: #3b3d46;
+}
